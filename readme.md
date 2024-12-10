@@ -1,5 +1,5 @@
 ## Welcome to Git !
 
--This is coming from 'dev-adrain'
-
+- yo, Johnny here!
+- This is coming from 'dev-adrain'
 - i am adding this from 'feature branch'
